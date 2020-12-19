@@ -1,0 +1,14 @@
+C:\School\CSC-139\Chapter8\Patient Cholesterol\bin\Debug\Patient Cholesterol Screening.exe.config
+C:\School\CSC-139\Chapter8\Patient Cholesterol\bin\Debug\Patient Cholesterol Screening.exe
+C:\School\CSC-139\Chapter8\Patient Cholesterol\bin\Debug\Patient Cholesterol Screening.pdb
+C:\School\CSC-139\Chapter8\Patient Cholesterol\bin\Debug\Patient Cholesterol Screening.xml
+C:\School\CSC-139\Chapter8\Patient Cholesterol\obj\Debug\Patient Cholesterol.vbprojAssemblyReference.cache
+C:\School\CSC-139\Chapter8\Patient Cholesterol\obj\Debug\Patient_Cholesterol.frmMain.resources
+C:\School\CSC-139\Chapter8\Patient Cholesterol\obj\Debug\Patient_Cholesterol.Resources.resources
+C:\School\CSC-139\Chapter8\Patient Cholesterol\obj\Debug\Patient_Cholesterol.SplashScreen.resources
+C:\School\CSC-139\Chapter8\Patient Cholesterol\obj\Debug\Patient Cholesterol.vbproj.GenerateResource.cache
+C:\School\CSC-139\Chapter8\Patient Cholesterol\obj\Debug\Patient Cholesterol.vbproj.CoreCompileInputs.cache
+C:\School\CSC-139\Chapter8\Patient Cholesterol\obj\Debug\Patient Cholesterol Screening.exe
+C:\School\CSC-139\Chapter8\Patient Cholesterol\obj\Debug\Patient Cholesterol Screening.xml
+C:\School\CSC-139\Chapter8\Patient Cholesterol\obj\Debug\Patient Cholesterol Screening.pdb
+C:\School\CSC-139\Chapter8\Patient Cholesterol\obj\Debug\Patient_Cholesterol.frmPatientInfo.resources
